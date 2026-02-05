@@ -20,6 +20,7 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 ---
 
@@ -32,9 +33,9 @@
 ⭐️ *Feel free to check my repositories and projects*
 
 
--- ## Hi there 👋
 
 <!--
+-- ## Hi there 👋
 **Moys236/Moys236** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
